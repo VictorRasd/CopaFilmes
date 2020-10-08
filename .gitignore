@@ -1,0 +1,34 @@
+react-app/.vscode/
+react-app/dist/
+react-app/node_modules/
+react-app/out/
+
+# Logs
+react-app/logs
+react-app/*.log
+react-app/npm-debug.log*
+react-app/yarn-debug.log*
+react-app/yarn-error.log*
+react-app/yarn.lock
+react-app/*.lock
+react-app/.~lock*
+react-app/package-lock.json
+
+# Yarn Integrity file
+react-app/.yarn-integrity
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+react-app/.grunt
+
+# Optional npm cache directory
+react-app/.npm
+
+# Optional eslint cache
+react-app/.eslintcache
+
+# Windows thumbnail cache files
+react-app/Thumbs.db
+
+# OS X files
+react-app/.DS_Store
+react-app/._*
